@@ -21,5 +21,13 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ]
+  ],
+  "devDependencies": {
+    "axios": "^0.18.0",
+    "faker": "^4.1.0",
+    "lodash": "^4.17.11",
+    "react-redux": "^6.0.0",
+    "redux": "^4.0.1",
+    "redux-thunk": "^2.3.0"
+  }
 }
